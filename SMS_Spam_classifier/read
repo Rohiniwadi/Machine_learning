@@ -1,3 +1,0 @@
-SMS Spam Classification
-
-An SMS Spam Classification using ML algorithms. here I tried to classify the SMS message as SPAM or NOT SPAM. Initially, data is preprocessed and converted to vectors using NLP. And Classification algorithms are applied to classify SMS messages.
